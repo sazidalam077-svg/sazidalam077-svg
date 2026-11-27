@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**sazidalam077-svg/sazidalam077-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Sazid Alam 👋
 
-Here are some ideas to get you started:
+### Frontend Web Developer | Digital Product Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into modern, responsive websites
+and digital products with clean interfaces and useful experiences.
+
+🌐 **Portfolio:** https://sazidbuilds.in
+
+### 🚀 What I Do
+- Frontend Web Development
+- Responsive Website Development
+- UI/UX Design
+- Digital Product Development
+- Website Optimization
+
+### 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Figma
+- Git & GitHub
+
+### 💻 Featured Projects
+
+**1. Productivity Tool**
+A productivity web application built using HTML, CSS and JavaScript.
+
+**2. Zayna Apparel**
+A fashion-focused digital storefront.
+
+**3. Sazid Builds**
+My personal portfolio website.
+
+### 🤝 Connect With Me
+
+- Portfolio: https://sazidbuilds.in
+- GitHub: https://github.com/sazidalam077-svg
+- LinkedIn: https://www.linkedin.com/in/sazid-alam-04b32231a/
+- Instagram: https://www.instagram.com/being_yawn_/
+
+---
+*Building ideas into digital experiences.*
